@@ -1,0 +1,144 @@
+body{
+  margin: 0px;
+  background-image: url("/image/background.jpg");
+  background-size:100%; 
+  background-position:fixed;
+ 
+}
+.first{
+  height:30px;
+  padding: 10px;
+  align-items: center;
+}
+#right{
+  position: relative;
+  align-self:right;
+}
+#left{
+  position: absolute;
+  right:100px;
+  word-spacing: 5px;
+  
+}
+.second{
+position:relative;
+  background-color:whitesmoke;
+  padding:15px;
+  
+ 
+}
+a{  
+  color:black;
+  
+  padding:5px;
+  width:20px;
+  text-decoration:none;
+  margin:0px 10px 0px 10px;
+}
+#left2{
+ width:20px;
+ height:20px;
+ position:absolute;
+ top:18%;
+ right:20px;
+}
+i{
+  border-right: 2px solid black;
+  padding-right: 2px;
+  margin:2px;
+  align-items: center;
+}
+.third{ 
+ background-image:url("/image/bi2.jpg");
+ background-size: 100% 100%;
+ background-position: center;
+ height:500px;
+ width:100%;
+ color: white;
+ padding: 5px;
+ margin: 25px 0px 25px 0px;
+}
+h2{
+  text-align: center;
+}
+p{
+  font-size: 9pt;
+}
+#para{
+  display: block;
+ margin-right:700px;
+ margin-left: 100px;
+ margin-top: 12%;
+ margin-bottom:10%;
+ text-align: justify;
+ 
+ right:20px;
+  
+}
+#image{
+  position:relative;
+  left:60%;
+  bottom:50%;
+  text-align:center;
+   box-shadow: 10px 10px 10px #3B3C45;
+ 
+}
+.fourth{
+  position:relative;
+  width:80%;
+  background-color: rgba(28, 220, 219, 1);
+  margin: 25px 100px 25px 100px;
+  padding: 5px;
+}
+.conatiner{ 
+   position: relative;
+   margin-top:20px;
+   margin-bottom:20px;
+   padding: 5px;
+   width: 100%;
+  
+ 
+   
+}
+#feature{
+  padding: 2px;
+  color:white;
+  background-color:rgb(225, 13, 13);
+  width:100%;
+  margin: 0px 100px 0px 0px;
+  text-align: center;
+  border-radius: 0px 0px 500px 500px;
+}
+.fivth{
+  width:80%;
+  margin: 25px 100px 25px 100px;
+  background-color: rgba(252, 252, 252, 1);
+  padding:10px;
+  border-color: 2px solid black;
+  
+}
+#hAbout{
+  color:white;
+  background-color: rgba(33, 170, 101, 1);
+  border-radius: 50%;
+  width:50%;
+  padding:5px;
+}
+#heading{
+  margin-left: 50px;
+  width:400px;
+  height:10%;
+  padding:5px;
+  background-color: rgba(48, 123, 238, 0.82);
+  border-radius: 50% 0% 50% 0%;
+}
+#sixth{
+  background-color:rgba(238, 133, 32, 0.81);
+  background-size:100% 100%;
+  padding: 20px;
+  font-size: 10pt;
+  
+}
+ol{
+  margin:50px;
+}
